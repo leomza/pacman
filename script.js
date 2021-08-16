@@ -128,5 +128,3 @@ function handleSubmit(ev) {
         console.error(error)
     }
 }
-
-//I know that I didnt apply "import and export" between listeners.js and script.js, however I told that to Tal and he is going to teach that soon (I tried to do it by myself but I couldn`t
